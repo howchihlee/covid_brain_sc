@@ -1,8 +1,7 @@
 # Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19
 ### by John F. Fullard, Hao-Chih Lee, Georgios Voloudakis, Shengbao Suo, Behnam Javidfar, Zhiping Shao, Cyril Peter, Wen Zhang, Shan Jiang, André Corvelo, Heather Wargnier, Emma Woodoff-Leith, Dushyant P. Purohit, Sadhna Ahuja, Nadejda M. Tsankova, Nathalie Jette, Gabriel E. Hoffman, Schahram Akbarian, Mary Fowkes, John F. Crary, Guo-Cheng Yuan, Panos Roussos
 
-This is the code repository for "Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19".
-preprint is available at [bioaxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.425999v1)
+This is the code repository for "Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19", published in [Genome medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00933-8)
 
 ![](./media/umap_celltype.png)
 
@@ -27,6 +26,11 @@ If you find this code useful in your research, please consider citing:
 author = {John F. Fullard, Hao-Chih Lee, Georgios Voloudakis, Shengbao Suo, Behnam Javidfar, Zhiping Shao, Cyril Peter, Wen Zhang, Shan Jiang, André Corvelo, Heather Wargnier, Emma Woodoff-Leith, Dushyant P. Purohit, Sadhna Ahuja, Nadejda M. Tsankova, Nathalie Jette, Gabriel E. Hoffman, Schahram Akbarian, Mary Fowkes, John F. Crary, Guo-Cheng Yuan and Panos Roussos},
 	title = {Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19},
 	year = {2021},
-	journal = {under review}
+	  journal={Genome medicine},
+	  volume={13},
+	  number={1},
+	  pages={1--13},
+	  year={2021},
+	  publisher={Springer}
 }
 
